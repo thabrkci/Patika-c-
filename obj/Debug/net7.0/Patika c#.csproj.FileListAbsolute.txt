@@ -1,0 +1,14 @@
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\bin\Debug\net7.0\Patika c#.exe
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\bin\Debug\net7.0\Patika c#.deps.json
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\bin\Debug\net7.0\Patika c#.runtimeconfig.json
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\bin\Debug\net7.0\Patika c#.dll
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\bin\Debug\net7.0\Patika c#.pdb
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\obj\Debug\net7.0\Patika c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\obj\Debug\net7.0\Patika c#.AssemblyInfoInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\obj\Debug\net7.0\Patika c#.AssemblyInfo.cs
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\obj\Debug\net7.0\Patika c#.csproj.CoreCompileInputs.cache
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\obj\Debug\net7.0\Patika c#.dll
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\obj\Debug\net7.0\refint\Patika c#.dll
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\obj\Debug\net7.0\Patika c#.pdb
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\obj\Debug\net7.0\Patika c#.genruntimeconfig.cache
+C:\Users\Taha\OneDrive\Masaüstü\Patika c#\obj\Debug\net7.0\ref\Patika c#.dll
