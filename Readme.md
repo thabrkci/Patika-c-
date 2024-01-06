@@ -1,5 +1,5 @@
 Herkese selam,
-Patika aracılığıyla  alıştırmalarını yaptığım,işlem atama,değişken tanımlanması,aritmetik Operatörler vei lişkisel Operatörler kısa örnekleri bulunmakta.
+Patika aracılığıyla  alıştırmalarını yaptığım,işlem atama,değişken tanımlanması,aritmetik operatörler ve lişkisel Operatörler kısa örnekleri bulunmakta.
 Vaktinizi ayırdığınız için teşekkür ederim.
 -------------------------------------------
 Hello everyone,
