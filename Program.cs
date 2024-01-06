@@ -4,14 +4,14 @@
     {
         static void Main(string[] args)
         {
-            // Atama ve İşlem Atama
-            Console.WriteLine("***Atama Ve İşlem Atama***");
+            // Assignment and Compound Assignment
+            Console.WriteLine("***Assignment and Compound Assignment***");
 
-            // Değişkenlerin tanımlanması
+            // Definition of variables
             int x = 3;
             int y = 3;
 
-            // İşlem atama örnekleri
+            // Examples of compound assignments
             y = y + 2; 
             Console.WriteLine(y); // 5
             y /= 1; 
@@ -21,14 +21,14 @@
             x *= 2; 
             Console.WriteLine(x); // 6
 
-            // Mantıksal Operatörler
-            Console.WriteLine("***Mantiksal Operatörler***");
+            // Logical Operators
+            Console.WriteLine("***Logical Operators***");
 
-            // Boolean değişkenlerin tanımlanması
+            // Definition of boolean variables
             bool isSuccess = true;
             bool isCompleted = false;
 
-            // Mantıksal operatör örnekleri
+            // Examples of logical operators
             if (isSuccess && isCompleted)
                 Console.WriteLine("Perfect!");
 
@@ -38,47 +38,47 @@
             if (isSuccess && !isCompleted)
                 Console.WriteLine("Great!");
 
-            // İlişkisel Operatörler
-            Console.WriteLine("***İlişkisel Operatörler***");
+            // Relational Operators
+            Console.WriteLine("***Relational Operators***");
 
-            // İki sayının karşılaştırılması
+            // Comparison of two numbers
             int a = 3;
             int b = 4;
-            bool sonuc = a < b;
-            Console.WriteLine(sonuc); // true
+            bool result = a < b;
+            Console.WriteLine(result); // true
 
-            sonuc = a > b;
-            Console.WriteLine(sonuc); // false
+            result = a > b;
+            Console.WriteLine(result); // false
 
-            sonuc = a >= b;
-            Console.WriteLine(sonuc); // false
+            result = a >= b;
+            Console.WriteLine(result); // false
 
-            sonuc = a <= b;
-            Console.WriteLine(sonuc); // true
+            result = a <= b;
+            Console.WriteLine(result); // true
 
-            sonuc = a == b;
-            Console.WriteLine(sonuc); // false
+            result = a == b;
+            Console.WriteLine(result); // false
 
-            sonuc = a != b;
-            Console.WriteLine(sonuc); // true
+            result = a != b;
+            Console.WriteLine(result); // true
 
-            // Aritmetik Operatörler
-            Console.WriteLine("***Aritmetik Operatörler***");
+            // Arithmetic Operators
+            Console.WriteLine("***Arithmetic Operators***");
 
-            // İki sayı üzerinde aritmetik işlemler
-            int sayi1 = 10;
-            int sayi2 = 5;
-            int sonuc1 = sayi1 / sayi2;
-            Console.WriteLine(sonuc1); // 2
+            // Arithmetic operations on two numbers
+            int number1 = 10;
+            int number2 = 5;
+            int result1 = number1 / number2;
+            Console.WriteLine(result1); // 2
 
-            sonuc1 = sayi1 * sayi2;
-            Console.WriteLine(sonuc1); // 50
+            result1 = number1 * number2;
+            Console.WriteLine(result1); // 50
 
-            sonuc1 = sayi1 + sayi2;
-            Console.WriteLine(sonuc1); // 15
+            result1 = number1 + number2;
+            Console.WriteLine(result1); // 15
 
-            sonuc1 = sayi1++; // Önce değeri kullan, sonra artır
-            Console.WriteLine(sayi1); // 11
+            result1 = number1++; // Use the value first, then increment
+            Console.WriteLine(number1); // 11
         }
     }
 }
